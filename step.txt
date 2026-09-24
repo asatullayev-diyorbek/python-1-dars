@@ -1,0 +1,7 @@
+1-step: git init
+2-step: git add .
+3-step: git commit -m "izoh"
+4-step: git branch -M main
+5-step: git remote add origin https://githubda berilgan silka
+6-step: git push -u origin main
+7-step: githubga kirib yangilash
